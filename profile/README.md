@@ -122,6 +122,6 @@ A structured course repository covering theory, practicals, and self-study mater
 
 | # | Notes |
 |---|-------|
-| 1 | [Self Study — Unit 1](https://github.com/cu-adsa/.github/blob/main/lectures/self%20study/1.md) |
-| 2 | [Self Study — Unit 2](https://github.com/cu-adsa/.github/blob/main/lectures/self%20study/2.md) |
-| 3 | [Self Study — Unit 3](https://github.com/cu-adsa/.github/blob/main/lectures/self%20study/3.md) |
+| 1 | [Self Study — Unit 1](https://github.com/cu-adsa/.github/blob/main/lectures/self-study/1.md) |
+| 2 | [Self Study — Unit 2](https://github.com/cu-adsa/.github/blob/main/lectures/self-study/2.md) |
+| 3 | [Self Study — Unit 3](https://github.com/cu-adsa/.github/blob/main/lectures/self-study/3.md) |
