@@ -1,3 +1,5 @@
+# ADSA Syllabus
+
 ## Theory: 45 Lecture Plan
 
 **Pedagogical Tools (all lectures):** Activity, Case Study, Code, Flipped Classes, Infographics, Instructor Lead Workshop, PPT, Reports, Simulation, Video Lecture
