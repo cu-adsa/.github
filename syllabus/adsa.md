@@ -120,7 +120,7 @@
 
 ---
 
-## Practical: 10 Experiment Plan
+## Practical: 15 Experiment Plan
 
 **Pedagogical Tools (all experiments):** Activity, Case Study, Code, Flipped Classes, Infographics, Instructor Lead Workshop, PPT, Reports, Simulation, Video Lecture
 
@@ -142,3 +142,8 @@
 | 3 | E8 | Network Delay Time (#743) — Dijkstra's Shortest Path | [LC #743](https://leetcode.com/problems/network-delay-time/) | T-Introduction to Algorithms, T-Guide to Competitive Programming, T-The Algorithm Design Manual, R-Competitive Programming | Activity, Code, Case Study, Simulation | CO3, CO4 | BT5 |
 | 3 | E9 | Non-overlapping Intervals (#435) — Greedy / Knapsack | [LC #435](https://leetcode.com/problems/non-overlapping-intervals/) | T-Introduction to Algorithms, T-Guide to Competitive Programming, T-The Algorithm Design Manual, R-Competitive Programming | Activity, Code, Case Study, Reports | CO3, CO4 | BT5 |
 | 3 | E10 | Course Schedule (#207) — Topological Sorting | [LC #207](https://leetcode.com/problems/course-schedule/) | T-Introduction to Algorithms, T-Guide to Competitive Programming, T-The Algorithm Design Manual, R-Competitive Programming | Activity, Code, Case Study, Simulation | CO3, CO4 | BT5 |
+| 3 | E11 | Maximum Depth of Binary Tree (#104) — DFS / BFS on Trees | [LC #104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | T-Introduction to Algorithms, T-Guide to Competitive Programming, T-The Algorithm Design Manual, R-Competitive Programming | Activity, Code, Case Study, Simulation | CO2, CO3 | BT5 |
+| 3 | E12 | Number of Islands (#200) — BFS & DFS Graph Traversal | [LC #200](https://leetcode.com/problems/number-of-islands/) | T-Introduction to Algorithms, T-Guide to Competitive Programming, T-The Algorithm Design Manual, R-Competitive Programming | Activity, Code, Case Study, Simulation | CO2, CO3 | BT5 |
+| 3 | E13 | Binary Tree Level Order Traversal (#102) — BFS / Queue | [LC #102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | T-Introduction to Algorithms, T-Guide to Competitive Programming, T-The Algorithm Design Manual, R-Competitive Programming | Activity, Code, Case Study, Simulation | CO2, CO3 | BT5 |
+| 3 | E14 | Valid Anagram (#242) — Hashing & Frequency Count | [LC #242](https://leetcode.com/problems/valid-anagram/) | T-Introduction to Algorithms, T-Guide to Competitive Programming, T-The Algorithm Design Manual, R-Competitive Programming | Activity, Code, Simulation, Reports | CO2, CO3 | BT5 |
+| 3 | E15 | Combination Sum (#39) — Backtracking / Recursion | [LC #39](https://leetcode.com/problems/combination-sum/) | T-Introduction to Algorithms, T-Guide to Competitive Programming, T-The Algorithm Design Manual, R-Competitive Programming | Activity, Code, Case Study, Reports | CO3, CO4 | BT5 |
