@@ -115,6 +115,11 @@ A structured course repository covering theory, practicals, and self-study mater
 | E8 | [Network Delay Time — Dijkstra's Shortest Path](https://github.com/cu-adsa/.github/blob/main/lectures/practical/8.md) | [LC #743](https://leetcode.com/problems/network-delay-time/) |
 | E9 | [Non-overlapping Intervals — Greedy / Knapsack](https://github.com/cu-adsa/.github/blob/main/lectures/practical/9.md) | [LC #435](https://leetcode.com/problems/non-overlapping-intervals/) |
 | E10 | [Course Schedule — Topological Sorting](https://github.com/cu-adsa/.github/blob/main/lectures/practical/10.md) | [LC #207](https://leetcode.com/problems/course-schedule/) |
+| E11 | [Maximum Depth of Binary Tree — DFS / BFS on Trees](https://github.com/cu-adsa/.github/blob/main/lectures/practical/11.md) | [LC #104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| E12 | [Number of Islands — BFS & DFS Graph Traversal](https://github.com/cu-adsa/.github/blob/main/lectures/practical/12.md) | [LC #200](https://leetcode.com/problems/number-of-islands/) |
+| E13 | [Binary Tree Level Order Traversal — BFS / Queue](https://github.com/cu-adsa/.github/blob/main/lectures/practical/13.md) | [LC #102](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| E14 | [Valid Anagram — Hashing & Frequency Count](https://github.com/cu-adsa/.github/blob/main/lectures/practical/14.md) | [LC #242](https://leetcode.com/problems/valid-anagram/) |
+| E15 | [Combination Sum — Backtracking / Recursion](https://github.com/cu-adsa/.github/blob/main/lectures/practical/15.md) | [LC #39](https://leetcode.com/problems/combination-sum/) |
 
 ---
 
