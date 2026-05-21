@@ -1,0 +1,44 @@
+name: Generate PDFs
+
+on:
+  push:
+    branches:
+      - "**"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+          allow-prereleases: true
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run main.py
+        run: uv run python main.py
+
+      - name: Commit generated PDFs
+        run: |
+          git config user.name  "dheereshag"
+          git config user.email "da11@iitbbs.ac.in"
+          git add "**/*.pdf"
+          if git diff --cached --quiet; then
+            echo "No PDF changes to commit."
+          else
+            git commit -m "chore: regenerate PDFs [skip ci]"
+            git push
+          fi
