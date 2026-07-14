@@ -11,6 +11,12 @@
 
 ---
 
+## 🛠️ Python DSA Templates
+
+- [🐍 python-dsa-templates](https://github.com/dheereshag/python-dsa-templates) — Standard Python template implementations for various data structures and algorithms (Binary Search, Graphs, Heaps, Sorting, etc.).
+
+---
+
 A structured course repository covering theory, practicals, and self-study material.
 
 📄 [Syllabus](https://github.com/cu-adsa/.github/blob/main/syllabus/adsa.md)
