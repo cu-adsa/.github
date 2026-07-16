@@ -20,7 +20,9 @@ def main():
     md_files = [
         p
         for p in root.rglob("*.md")
-        if p.stat().st_size > 0 and not any(part in excluded_parts for part in p.parts)
+        if p.stat().st_size > 0
+        and p.name.lower() != "readme.md"
+        and not any(part in excluded_parts for part in p.parts)
     ]
 
     if not md_files:
