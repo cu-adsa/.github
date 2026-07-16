@@ -2,7 +2,37 @@
 
 📞 **Phone:** 9411245528 | 🏢 **Cabin:** 311 D2
 
-## 📚 LeetCode Problems & Solutions
+## 📌 Table of Contents
+
+- [📄 Syllabus](#syllabus)
+- [📅 Weekly Coding Practice & Puzzles](#weekly-coding-practice--puzzles)
+- [📚 LeetCode Problems Done in Class](#leetcode-problems-done-in-class)
+- [🛠️ Python DSA Templates](#python-dsa-templates)
+- [📚 Theory Lectures](#theory-lectures)
+  - [Unit 1 — Fundamentals of Data Structures & Sorting](#unit-1---fundamentals-of-data-structures--sorting)
+  - [Unit 2 — Linked Lists, Stacks & Queues](#unit-2---linked-lists-stacks--queues)
+  - [Unit 3 — Graphs, Trees, Hashing & File Organization](#unit-3---graphs-trees-hashing--file-organization)
+- [🧪 Practical Experiments](#practical-experiments)
+- [📖 Self Study](#self-study)
+
+---
+
+## 📅 Weekly Coding Practice & Puzzles
+
+A weekly curated list of coding challenges and logical puzzles to build problem-solving skills. Puzzles are sourced exclusively from GeeksforGeeks, while coding questions cycle through different platforms.
+
+| Week | Platform | DSA Questions (2) | GFG Puzzles (2) |
+| :--- | :--- | :--- | :--- |
+| **Week 1** | HackerRank | 1. [Encryption](https://www.hackerrank.com/challenges/encryption/)<br>2. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/) | 1. [3 Ants and Triangle](https://www.geeksforgeeks.org/aptitude/puzzle-21-3-ants-and-triangle/)<br>2. [Heaven and Hell](https://www.geeksforgeeks.org/aptitude/puzzle-heaven-hell/) |
+| **Week 2** | LeetCode | 1. TBD<br>2. TBD | 1. [25 Horses](https://www.geeksforgeeks.org/aptitude/puzzle-9-find-the-fastest-3-horses/)<br>2. [100 Doors](https://www.geeksforgeeks.org/dsa/puzzle-16-100-doors/) |
+| **Week 3** | CodeChef | 1. TBD<br>2. TBD | 1. [Measuring 45 Minutes](https://www.geeksforgeeks.org/aptitude/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/)<br>2. [2 Eggs and 100 Floors](https://www.geeksforgeeks.org/aptitude/puzzle-set-35-2-eggs-and-100-floors/) |
+| **Week 4** | HackerEarth | 1. TBD<br>2. TBD | 1. [Torch and Bridge](https://www.geeksforgeeks.org/puzzle-18-torch-and-bridge/)<br>2. [Poisonous Wine](https://www.geeksforgeeks.org/aptitude/puzzle-5-finding-the-injection-for-anesthesia/) |
+| **Week 5** | GeeksforGeeks | 1. TBD<br>2. TBD | 1. [Monty Hall Problem](https://www.geeksforgeeks.org/puzzle-monty-hall-problem/)<br>2. [10 Coins Puzzle](https://www.geeksforgeeks.org/aptitude/puzzle-24-10-coins-puzzle/) |
+| **Week 6** | CodeForces | 1. TBD<br>2. TBD | 1. [Camel and Banana Puzzle](https://www.geeksforgeeks.org/aptitude/puzzle-15-camel-and-banana-puzzle/)<br>2. [Gold Rod Puzzle](https://www.geeksforgeeks.org/aptitude/puzzle-4-pay-an-employee-using-a-gold-rod-of-7-units/) |
+
+---
+
+## 📚 LeetCode Problems Done in Class
 
 - <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank">33. Search in Rotated Sorted Array</a> - [🐍 Solution](../solutions/33.py)
 - <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">35. Search Insert Position</a> - [🐍 Solution](../solutions/35.py)
@@ -17,9 +47,11 @@
 
 ---
 
+## 📄 Syllabus
+
 A structured course repository covering theory, practicals, and self-study material.
 
-📄 [Syllabus](https://github.com/cu-adsa/.github/blob/main/syllabus/adsa.md)
+- [Syllabus (ADSA.md)](https://github.com/cu-adsa/.github/blob/main/syllabus/adsa.md)
 
 ---
 
