@@ -5,13 +5,13 @@
 ## 📌 Table of Contents
 
 - [📄 Syllabus](#syllabus)
-- [📅 Weekly Coding Practice & Puzzles](#weekly-coding-practice--puzzles)
+- [📅 Weekly Coding Practice & Puzzles](#weekly-coding-practice-puzzles)
 - [📚 LeetCode Problems Done in Class](#leetcode-problems-done-in-class)
 - [🛠️ Python DSA Templates](#python-dsa-templates)
 - [📚 Theory Lectures](#theory-lectures)
-  - [Unit 1 — Fundamentals of Data Structures & Sorting](#unit-1---fundamentals-of-data-structures--sorting)
-  - [Unit 2 — Linked Lists, Stacks & Queues](#unit-2---linked-lists-stacks--queues)
-  - [Unit 3 — Graphs, Trees, Hashing & File Organization](#unit-3---graphs-trees-hashing--file-organization)
+  - [Unit 1 — Fundamentals of Data Structures & Sorting](#unit-1-fundamentals-of-data-structures-sorting)
+  - [Unit 2 — Linked Lists, Stacks & Queues](#unit-2-linked-lists-stacks-queues)
+  - [Unit 3 — Graphs, Trees, Hashing & File Organization](#unit-3-graphs-trees-hashing-file-organization)
 - [🧪 Practical Experiments](#practical-experiments)
 - [📖 Self Study](#self-study)
 
