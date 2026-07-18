@@ -17,6 +17,8 @@
 
 ---
 
+<a id="weekly-coding-practice-puzzles"></a>
+
 ## 📅 Weekly Coding Practice & Puzzles
 
 A weekly curated list of coding challenges and logical puzzles to build problem-solving skills. Puzzles are sourced exclusively from GeeksforGeeks, while coding questions cycle through different platforms.
@@ -32,6 +34,8 @@ A weekly curated list of coding challenges and logical puzzles to build problem-
 
 ---
 
+<a id="leetcode-problems-done-in-class"></a>
+
 ## 📚 LeetCode Problems Done in Class
 
 - <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank">33. Search in Rotated Sorted Array</a> - [🐍 Solution](../solutions/33.py)
@@ -41,11 +45,15 @@ A weekly curated list of coding challenges and logical puzzles to build problem-
 
 ---
 
+<a id="python-dsa-templates"></a>
+
 ## 🛠️ Python DSA Templates
 
 - [🐍 python-dsa-templates](https://github.com/dheereshag/python-dsa-templates) — Standard Python template implementations for various data structures and algorithms (Binary Search, Graphs, Heaps, Sorting, etc.).
 
 ---
+
+<a id="syllabus"></a>
 
 ## 📄 Syllabus
 
@@ -55,7 +63,11 @@ A structured course repository covering theory, practicals, and self-study mater
 
 ---
 
+<a id="theory-lectures"></a>
+
 ## 📚 Theory Lectures
+
+<a id="unit-1-fundamentals-of-data-structures-sorting"></a>
 
 ### Unit 1 — Fundamentals of Data Structures & Sorting
 
@@ -88,6 +100,8 @@ A structured course repository covering theory, practicals, and self-study mater
 
 ---
 
+<a id="unit-2-linked-lists-stacks-queues"></a>
+
 ### Unit 2 — Linked Lists, Stacks & Queues
 
 #### Chapter 2.1: Linked Lists
@@ -117,6 +131,8 @@ A structured course repository covering theory, practicals, and self-study mater
 | L29 | [Priority queue — concept and applications](https://github.com/cu-adsa/.github/blob/main/lectures/theory/2.3.3.md) |
 
 ---
+
+<a id="unit-3-graphs-trees-hashing-file-organization"></a>
 
 ### Unit 3 — Graphs, Trees, Hashing & File Organization
 
@@ -150,6 +166,8 @@ A structured course repository covering theory, practicals, and self-study mater
 
 ---
 
+<a id="practical-experiments"></a>
+
 ## 🧪 Practical Experiments
 
 | # | Experiment | LeetCode |
@@ -171,6 +189,8 @@ A structured course repository covering theory, practicals, and self-study mater
 | E15 | [Combination Sum — Backtracking / Recursion](https://github.com/cu-adsa/.github/blob/main/lectures/practical/15.md) | [LC #39](https://leetcode.com/problems/combination-sum/) |
 
 ---
+
+<a id="self-study"></a>
 
 ## 📖 Self Study
 
