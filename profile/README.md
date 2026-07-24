@@ -7,6 +7,7 @@
 - [📄 Syllabus](#syllabus)
 - [📅 Weekly Coding Practice & Puzzles](#weekly-coding-practice-puzzles)
 - [📚 LeetCode Problems Done in Class](#leetcode-problems-done-in-class)
+- [🧠 Practice Problems by Topic](#practice-problems-by-topic)
 - [🛠️ Python DSA Templates](#python-dsa-templates)
 - [📚 Theory Lectures](#theory-lectures)
   - [Unit 1 — Fundamentals of Data Structures & Sorting](#unit-1-fundamentals-of-data-structures-sorting)
@@ -42,6 +43,114 @@ A weekly curated list of coding challenges and logical puzzles to build problem-
 - <a href="https://leetcode.com/problems/search-insert-position/" target="_blank">35. Search Insert Position</a> - [🐍 Solution](../solutions/35.py)
 - <a href="https://leetcode.com/problems/implement-stack-using-queues/" target="_blank">225. Implement Stack using Queues</a> - [🐍 Solution](../solutions/225.py)
 - <a href="https://leetcode.com/problems/implement-queue-using-stacks/" target="_blank">232. Implement Queue using Stacks</a> - [🐍 Solution](../solutions/232.py)
+
+---
+
+<a id="practice-problems-by-topic"></a>
+
+## 🧠 Practice Problems by Topic
+
+These curated problems follow the major DSA topics in the syllabus and are ordered from Easy to Hard.
+
+### Binary Search
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Binary Search (#704) | Easy | https://leetcode.com/problems/binary-search/ |
+| Search Insert Position (#35) | Easy | https://leetcode.com/problems/search-insert-position/ |
+| Find Peak Element (#162) | Medium | https://leetcode.com/problems/find-peak-element/ |
+| Search in Rotated Sorted Array (#33) | Medium | https://leetcode.com/problems/search-in-rotated-sorted-array/ |
+| Median of Two Sorted Arrays (#4) | Hard | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+
+### Sorting & Divide & Conquer
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Sort an Array (#912) | Easy | https://leetcode.com/problems/sort-an-array/ |
+| Sort Colors (#75) | Easy | https://leetcode.com/problems/sort-colors/ |
+| Kth Largest Element in an Array (#215) | Medium | https://leetcode.com/problems/kth-largest-element-in-an-array/ |
+| Merge Intervals (#56) | Medium | https://leetcode.com/problems/merge-intervals/ |
+| Top K Frequent Elements (#347) | Medium | https://leetcode.com/problems/top-k-frequent-elements/ |
+
+### Linked Lists
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Reverse Linked List (#206) | Easy | https://leetcode.com/problems/reverse-linked-list/ |
+| Merge Two Sorted Lists (#21) | Easy | https://leetcode.com/problems/merge-two-sorted-lists/ |
+| Swap Nodes in Pairs (#24) | Medium | https://leetcode.com/problems/swap-nodes-in-pairs/ |
+| Linked List Cycle (#141) | Easy | https://leetcode.com/problems/linked-list-cycle/ |
+| Add Two Numbers (#2) | Medium | https://leetcode.com/problems/add-two-numbers/ |
+
+### Stacks & Recursion
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Valid Parentheses (#20) | Easy | https://leetcode.com/problems/valid-parentheses/ |
+| Min Stack (#155) | Medium | https://leetcode.com/problems/min-stack/ |
+| Evaluate Reverse Polish Notation (#150) | Medium | https://leetcode.com/problems/evaluate-reverse-polish-notation/ |
+| Basic Calculator (#224) | Hard | https://leetcode.com/problems/basic-calculator/ |
+| Baseball Game (#682) | Easy | https://leetcode.com/problems/baseball-game/ |
+
+### Queues & Priority Queues
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Number of Recent Calls (#933) | Easy | https://leetcode.com/problems/number-of-recent-calls/ |
+| Implement Stack using Queues (#225) | Easy | https://leetcode.com/problems/implement-stack-using-queues/ |
+| Implement Queue using Stacks (#232) | Easy | https://leetcode.com/problems/implement-queue-using-stacks/ |
+| Sliding Window Maximum (#239) | Hard | https://leetcode.com/problems/sliding-window-maximum/ |
+| Kth Largest Element in a Stream (#703) | Easy | https://leetcode.com/problems/kth-largest-element-in-a-stream/ |
+
+### Graphs & BFS/DFS
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Number of Islands (#200) | Medium | https://leetcode.com/problems/number-of-islands/ |
+| Course Schedule (#207) | Medium | https://leetcode.com/problems/course-schedule/ |
+| Flood Fill (#733) | Easy | https://leetcode.com/problems/flood-fill/ |
+| 01 Matrix (#542) | Medium | https://leetcode.com/problems/01-matrix/ |
+| Network Delay Time (#743) | Medium | https://leetcode.com/problems/network-delay-time/ |
+
+### Trees & Binary Trees
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Maximum Depth of Binary Tree (#104) | Easy | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
+| Binary Tree Level Order Traversal (#102) | Medium | https://leetcode.com/problems/binary-tree-level-order-traversal/ |
+| Invert Binary Tree (#226) | Easy | https://leetcode.com/problems/invert-binary-tree/ |
+| Diameter of Binary Tree (#543) | Easy | https://leetcode.com/problems/diameter-of-binary-tree/ |
+| Minimum Depth of Binary Tree (#111) | Easy | https://leetcode.com/problems/minimum-depth-of-binary-tree/ |
+
+### Binary Search Trees & Heaps
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Search in a Binary Search Tree (#700) | Easy | https://leetcode.com/problems/search-in-a-binary-search-tree/ |
+| Insert into a Binary Search Tree (#701) | Medium | https://leetcode.com/problems/insert-into-a-binary-search-tree/ |
+| Convert Sorted Array to Binary Search Tree (#108) | Easy | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/ |
+| Kth Smallest Element in a BST (#230) | Medium | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ |
+| Find Median from Data Stream (#295) | Hard | https://leetcode.com/problems/find-median-from-data-stream/ |
+
+### Hashing
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Two Sum (#1) | Easy | https://leetcode.com/problems/two-sum/ |
+| Group Anagrams (#49) | Medium | https://leetcode.com/problems/group-anagrams/ |
+| Valid Anagram (#242) | Easy | https://leetcode.com/problems/valid-anagram/ |
+| Word Pattern (#290) | Easy | https://leetcode.com/problems/word-pattern/ |
+| Contains Duplicate II (#219) | Easy | https://leetcode.com/problems/contains-duplicate-ii/ |
+
+### Backtracking
+
+| Problem | Difficulty | Link |
+|---------|------------|------|
+| Combination Sum (#39) | Medium | https://leetcode.com/problems/combination-sum/ |
+| Permutations (#46) | Medium | https://leetcode.com/problems/permutations/ |
+| Subsets (#78) | Medium | https://leetcode.com/problems/subsets/ |
+| Letter Combinations of a Phone Number (#17) | Medium | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ |
+| N-Queens (#51) | Hard | https://leetcode.com/problems/n-queens/ |
 
 ---
 
