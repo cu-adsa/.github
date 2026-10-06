@@ -11,17 +11,22 @@ def convert_md_to_pdf(md_path: Path) -> None:
     pdf.meta["title"] = md_path.stem
     pdf.save(str(pdf_path))
 
-    print(f"  Created: {pdf_path.relative_to(Path.cwd())}")
+    try:
+        rel_path = pdf_path.resolve().relative_to(Path.cwd().resolve())
+    except ValueError:
+        rel_path = pdf_path
+    print(f"  Created: {rel_path}")
 
 
 def main():
     root = Path(__file__).parent
     excluded_parts = {"profile", ".venv"}
+    excluded_names = {"readme.md", "agents.md"}
     md_files = [
         p
         for p in root.rglob("*.md")
         if p.stat().st_size > 0
-        and p.name.lower() != "readme.md"
+        and p.name.lower() not in excluded_names
         and not any(part in excluded_parts for part in p.parts)
     ]
 
